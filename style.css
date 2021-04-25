@@ -1,0 +1,12 @@
+.column {
+	display: flex;
+	flex-direction: column;
+	width: 50vw;
+	margin: 0 auto;
+	margin-top: 50vh;
+	outline: 2px solid;
+}
+
+.player {
+	margin: 0 auto;
+}
